@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nim:home|Door43 (nim)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nim|d43-nim repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nim/archive/master.zip|d43-nim.zip]]
+
+**Recent Changes**
+{{changes>ns = nim}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nim|Ethnologue data]]
+
